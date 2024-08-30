@@ -1,8 +1,8 @@
 # How to verify deployed solidity smart contracts with constructor arguments (WIP)
 
-### Tips for creating tests
+### TLDR
 
-This plugin helps you verify the source code for your Solidity contracts. At the moment, it supports Etherscan-based explorers, explorers compatible with its API like Blockscout and Sourcify.
+This read & plugin helps you verify the source code for your Solidity contracts. At the moment, it supports Etherscan-based explorers, explorers compatible with its API like Blockscout and Sourcify.
 
 ## Steps
 - [x] Install hardhat-verify
