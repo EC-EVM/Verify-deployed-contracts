@@ -2,7 +2,7 @@
 
 ### TLDR
 
-This read & plugin helps you verify the source code for your Solidity contracts. At the moment, it supports Etherscan-based explorers, explorers compatible with its API like Blockscout and Sourcify.
+This readme & plugin helps you verify the source code for your Solidity contracts. At the moment, it supports Etherscan-based explorers, explorers compatible with its API like Blockscout and Sourcify.
 
 ## Steps
 - [x] Install hardhat-verify
